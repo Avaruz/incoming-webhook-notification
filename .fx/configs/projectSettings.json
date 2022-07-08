@@ -1,0 +1,11 @@
+{
+    "appName": "IncomingWebhookNotification",
+    "version": "2.1.0",
+    "isFromSample": true,
+    "solutionSettings": {
+        "activeResourcePlugins": [],
+        "azureResources": []
+    },
+    "programmingLanguage": "typescript",
+    "projectId": "964e62e5-89ab-41d2-b0ff-6ac81ae8d1d7"
+}
